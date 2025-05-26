@@ -45,12 +45,6 @@ This repository introduces the position paper titled **"Foundation Models for Sc
   - [7. License](#7-license)
   - [8. Citation](#8-citation)
 
-## 2. Introduction
-
-Foundation Models such as GPT-4, AlphaFold, and FunSearch are reshaping the landscape of scientific discovery. Historically, scientific progress has been structured around four core paradigms: experimental, theoretical, computational, and data-driven. Foundation models introduce a new trajectory that potentially constitutes a fifth paradigm, characterized by partially or fully autonomous scientific reasoning systems.
-
-These models unify capabilities across language, code, and multimodal inputs. They support hypothesis generation, automate experimentation, guide methodological decisions, and produce structured outputs. Through these capabilities, they are not merely speeding up research, but are redefining how science is conducted and conceptualized.
-
 ---
 
 ## 2. Introduction
