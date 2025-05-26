@@ -51,6 +51,38 @@ Foundation Models such as GPT-4, AlphaFold, and FunSearch are reshaping the land
 
 These models unify capabilities across language, code, and multimodal inputs. They support hypothesis generation, automate experimentation, guide methodological decisions, and produce structured outputs. Through these capabilities, they are not merely speeding up research, but are redefining how science is conducted and conceptualized.
 
+---
+
+## 2. Introduction
+
+Foundation Models such as GPT-4, AlphaFold, and FunSearch are profoundly transforming how scientific discovery is conducted. Scientific progress has historically unfolded through four foundational paradigms: experimental, theoretical, computational, and data-driven. Each paradigm introduced new modes of inquiry, from systematic observation and mathematical abstraction to simulation-based analysis and large-scale data pattern extraction.
+
+As scientific challenges become increasingly complex, interdisciplinary, and dynamic, the limitations of existing paradigms have become more pronounced. Foundation Models are emerging as versatile systems that integrate reasoning, modeling, language processing, and data generation. These models unify capabilities across domains, enabling end-to-end support for scientific processes including literature review, hypothesis generation, experiment design, and interpretation of results.
+
+This position paper argues that Foundation Models are not merely tools for speeding up existing workflows. They are actively reshaping the underlying structure of scientific practice. We introduce a three-stage framework that captures this ongoing transformation:
+
+<p align="center">
+  <img src="./scientific research paradigm.png" alt="Figure 1: Paradigm Transition via FMs" width="800"/>
+</p>
+
+**Figure 1. Evolving scientific paradigms empowered by FMs. FMs progressively transition from tool-like infrastructure (meta-scientific integration), to interactive co-creators (hybrid human–AI collaboration), and ultimately to autonomous agents capable of end-to-end scientific discovery.**
+
+In the first stage, Foundation Models function as intelligent infrastructure that improves efficiency within traditional paradigms. In the second stage, they operate as collaborators that participate in research ideation and execution. In the third stage, they may evolve into autonomous agents capable of initiating and completing scientific inquiries with minimal human intervention.
+
+To contextualize this transformation, we trace the historical evolution of scientific paradigms:
+
+<p align="center">
+  <img src="scientific research history.png" alt="Figure 2: Scientific Paradigm History" width="500"/>
+</p>
+
+**Figure 2. A Roadmap of Scientific Discovery Paradigms and Their Epistemic Capabilities.**
+
+Each new paradigm emerged in response to the limitations of the previous one. The experiment-driven paradigm emphasized empirical validation. The theory-driven paradigm brought deductive abstraction. The computation-driven paradigm enabled exploration of analytically intractable systems. The data-driven paradigm introduced inductive discovery from large-scale observations. Foundation Models now present a fifth paradigm that integrates learning, reasoning, and generation within a unified and adaptable framework.
+
+This paper offers a conceptual roadmap for understanding the trajectory of Foundation Models in science. It highlights not only their technical capacities but also their growing epistemic influence. By positioning these models as active participants in knowledge creation, we invite deeper reflection on what science means in an era of intelligent machines.
+
+---
+
 ## 3. Core Philosophy
 
 ### Philosophy
@@ -74,9 +106,13 @@ Foundation models assist researchers in identifying emerging topics, knowledge g
 
 **Example**: 
 
+```OpenAI Deep Research
 Human: What are the underexplored challenges in protein design in academic research?
 
-AI: [Underexplored Challenges in Protein Design by OpenAI Deep Research](./topic_exploration_example.md)
+AI: [Underexplored Challenges in Protein Design by OpenAI Deep Research]
+```
+
+See: [Underexplored Challenges in Protein Design by OpenAI Deep Research](./topic_exploration_example.md)
 
 **Recommended Tools**:
 - [ChatGPT](https://chat.openai.com/)
@@ -89,9 +125,13 @@ FMs summarize academic literature, cluster publications into themes, and highlig
 
 **Example**: 
 
+```OpenAI Deep Research
 Human: Please help me conduct a literature survey on protein design.
 
-AI: [Survey about protein design by OpenAI Deep Research](./literature_survey_example.md)
+AI: [Survey about protein design by OpenAI Deep Research]
+```
+
+See: [Survey about protein design by OpenAI Deep Research](./literature_survey_example.md)
 
 **Recommended Tools**:
 - [ChatGPT](https://chat.openai.com/)
@@ -104,10 +144,13 @@ AI: [Survey about protein design by OpenAI Deep Research](./literature_survey_ex
 FMs enable iterative refinement of research questions based on novelty, feasibility, or scope, offering domain-specific insights and suggestions.
 
 **Example**: 
-
+```OpenAI Deep Research
 Human: I intend to design a foundation model-based agent for protein design. Please analyze and refine the research problem.
 
-AI: [Problem Refinement by OpenAI Deep Research](./problem_refinement_example.md)
+AI: [Problem Refinement by OpenAI Deep Research]
+```
+
+See: [Problem Refinement by OpenAI Deep Research](./problem_refinement_example.md)
 
 **Recommended Tools**:
 - [ChatGPT](https://chat.openai.com/)
@@ -118,10 +161,13 @@ AI: [Problem Refinement by OpenAI Deep Research](./problem_refinement_example.md
 FMs provide assistance in designing or modifying research methodologies, including experiment protocols, model selection, and variable control strategies.
 
 **Example**: 
-
+```OpenAI Deep Research
 Human: Please help me design a deep learning model for analyzing gene expression data, taking into account as many factors as possible.
 
-AI: [Methodology Design by OpenAI Deep Research](./methodology_design_example.md)
+AI: [Methodology Design by OpenAI Deep Research]
+```
+
+See: [Methodology Design by OpenAI Deep Research](./methodology_design_example.md).
 
 **Recommended Tools**:
 - [ChatGPT](https://chat.openai.com/)
@@ -133,9 +179,13 @@ FMs generate executable code, simulate experimental conditions, or interact with
 
 **Example**:
 
-Human: Please generate the corresponding program according to this method: [Method](./methodology_design_example.md).
+```ChatGPT
+Human: Please generate the corresponding program according to this method: [Method].
 
-AI: [Code generated by ChatGPT](./experimentation_example.md)
+AI: [Code generated by ChatGPT]
+```
+
+See: [Method](./methodology_design_example.md), [Code generated by ChatGPT](./experimentation_example.md).
 
 **Recommended Tools**:
 - [Claude](https://claude.ai/)
