@@ -92,7 +92,9 @@ This paper offers a conceptual roadmap for understanding the trajectory of Found
 - Lower the barrier of entry for newcomers to engage in high-quality scientific inquiry.
 - Preserve human control and oversight to avoid risks associated with full automation.
 
-## 4. FM-Assisted Scientific Discovery Examples
+## 4. FM-Assisted Scientific Discovery In Practice
+
+FMs are increasingly integrated into every stage of the scientific research workflow, enabling researchers to accelerate and enhance the discovery process. In practice, FMs support a seamless pipeline that spans from the initial exploration of research topics, through comprehensive literature surveys, precise problem formulation, and innovative methodology design, to experimental execution and scientific writing. By leveraging FMs, scientists can efficiently identify emerging trends, synthesize vast bodies of knowledge, refine research questions, design robust experiments, and generate or analyze data. This section illustrates how FMs can be systematically embedded into each step of the scientific process, providing practical examples and recommended tools for each phase.
 
 ### 4.1. Topic Exploration
 
