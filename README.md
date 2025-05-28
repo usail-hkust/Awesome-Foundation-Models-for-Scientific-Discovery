@@ -207,13 +207,68 @@ FMs assist with outlining, drafting, rewriting, and proofreading scientific pape
 
 #### Experimental Design
 
+- (*ICLR'25*) BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments [[paper](https://arxiv.org/pdf/2405.17631)]
+
+- (*NeurIPS'23*) ExPT: Synthetic Pretraining for Few-Shot Experimental Design [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/8fab4407e1fe9006b39180525c0d323c-Paper-Conference.pdf)]
+
+- (*Opto-Electron Adv'24*) OptoGPT: A Foundation Model for Inverse Design in Optical Multilayer Thin Film Structures [[paper](https://www.researching.cn/ArticlePdf/m00091/2024/7/7/240062.pdf)]
+
+- (*arXiv 2024.06*) LLMatDesign: Autonomous Materials Discovery with Large Language Models [[paper](https://arxiv.org/pdf/2406.13163)]
+
+- (*ICML'24*) A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules? [[paper](https://arxiv.org/pdf/2402.05015)]
+
+- (*arXiv 2025.01*) Language-Based Bayesian Optimization Research Assistant (BORA). [[paper](https://arxiv.org/pdf/2501.16224)]
+
+- (*ICLR'25*) Bayesian Experimental Design via Contrastive Diffusions [[paper](https://arxiv.org/pdf/2410.11826)]
+
 #### Physical Experiment Execution
+
+- (*Nature'23*) Autonomous Chemical Research with Large Language Models [[paper](https://www.nature.com/articles/s41586-023-06792-0.pdf)]
+
+- (*Nature Communications'24*) An automatic end-to-end chemical synthesis development platform powered by large language models [[paper](https://www.nature.com/articles/s41467-024-54457-x.pdf)]
+
+- (*Autonomous Robots'23*) Large language models for chemistry robotics [[paper](https://link.springer.com/content/pdf/10.1007/s10514-023-10136-2.pdf)]
+
+- (*Digital Discovery'25*) From text to test: AI-generated control software for materials science instruments [[paper](https://pubs.rsc.org/en/content/articlepdf/2024/dd/d4dd00143e)]
+
+- (*Machine Learning: Science and Technology'25*) VISION: A Modular AI Assistant for Natural Human-Instrument Interaction at Scientific User Facilities [[paper](https://iopscience.iop.org/article/10.1088/2632-2153/add9e4/pdf)]
+
+- (*arXiv 2024.09*) AP-VLM: Active Perception Enabled by Vision-Language Models [[paper](https://arxiv.org/pdf/2409.17641)]
+
 
 ### 5.2 Theory-Driven Scientific Paradigm
 
 #### Scientific Hypothesis Generation
 
+- (*arXiv 2025.04*) A Survey on Hypothesis Generation for Scientific Discovery in the Era of Large Language Models [[paper](https://arxiv.org/pdf/2504.05496)]
+
+- (*BigData Conference'24*) Embracing Foundation Models for Advancing Scientific Discovery [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923747/pdf/nihms-2064800.pdf)]
+
+- (*arXiv 2025.04*) Sparks of Science: Hypothesis Generation Using Structured Paper Data [[paper](https://arxiv.org/pdf/2504.12976)]
+
+- (*ACL'24*) Exploring Scientific Hypothesis Generation with Mamba [[paper](https://aclanthology.org/2024.nlp4science-1.17.pdf)]
+
+- (*arXiv 2025.02*) Towards Physics-Guided Foundation Models [[paper](https://arxiv.org/pdf/2502.15013)]
+
+- (*AAAI'25*) Physics-Guided Foundation Model for Scientific Discovery: An Application to Aquatic Science [[paper](https://arxiv.org/pdf/2502.06084)]
+
+
 #### Theory Validation and Formal Reasoning
+
+- (*EMNLP'23*) Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning [[paper](https://arxiv.org/pdf/2305.12295)]
+
+- (*CoLLAs'24*) SymbolicAI: A framework for logic-based approaches combining generative models and solvers [[paper](https://arxiv.org/pdf/2402.00854)]
+
+- (*NeSy'24*) The Role of Foundation Models in Neuro-Symbolic Learning and Reasoning [[paper](https://arxiv.org/pdf/2402.01889)]
+
+- (*arXiv 2025.02*) Automated Hypothesis Validation with Agentic Sequential Falsifications [[paper](https://arxiv.org/pdf/2502.09858)]
+
+- (*arXiv 2024.04*) Towards Large Language Models as Copilots for Theorem Proving in Lean [[paper](https://mathai2023.github.io/papers/4.pdf)]
+
+- (*arXiv 2024.05*) DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data [[paper](https://arxiv.org/pdf/2405.14333)]
+
+- (*AAAI'24*) Relational Programming with Foundational Models [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28934/29776)]
+
 
 ### 5.3 Computation-Driven Scientific Paradigm
 
