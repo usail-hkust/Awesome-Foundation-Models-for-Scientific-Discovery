@@ -12,6 +12,8 @@
 
 This repository introduces the position paper titled **"Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition"**. The paper investigates how foundation models (FMs) are evolving from enhancing individual research tasks to driving a broader transition in the scientific paradigm itself.
 
+Our paper is avaiable at [arXiv](https://www.researchgate.net/publication/392172352_Foundation_Models_for_Scientific_Discovery_From_Paradigm_Enhancement_to_Paradigm_Transition).
+
 ## 1. Outline
 
 - [Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition](#foundation-models-for-scientific-discovery-from-paradigm-enhancement-to-paradigm-transition)
