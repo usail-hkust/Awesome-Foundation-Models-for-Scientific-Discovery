@@ -274,7 +274,9 @@ FMs assist with outlining, drafting, rewriting, and proofreading scientific pape
 
 ### 5.3 Computation-Driven Scientific Paradigm
 
-#### Formulating Executable Scientific Models
+#### Problem Modeling and Formulation
+- (*ICLR'25*) LLM-SR: Scientific equation discovery via programming with large language models [[paper](https://arxiv.org/pdf/2404.18400)]
+- (*Nature 2024*) Mathematical discoveries from program search with large language models [[paper](https://www.nature.com/articles/s41586-023-06924-6)]
 
 #### Solving and Inverting Scientific Equations
 
