@@ -276,9 +276,18 @@ FMs assist with outlining, drafting, rewriting, and proofreading scientific pape
 
 #### Problem Modeling and Formulation
 - (*ICLR'25*) LLM-SR: Scientific equation discovery via programming with large language models [[paper](https://arxiv.org/pdf/2404.18400)]
-- (*Nature 2024*) Mathematical discoveries from program search with large language models [[paper](https://www.nature.com/articles/s41586-023-06924-6)]
+- (*Nature'24*) Mathematical discoveries from program search with large language models [[paper](https://www.nature.com/articles/s41586-023-06924-6)]
+- (*NeurIPS 2024*) Symbolic Regression with a Learned Concept Library [[paper](https://arxiv.org/abs/2409.09359)]
+- (*arXiv 2024.04*) Towards a Foundation Model for Partial Differential Equations: Multi-Operator Learning and Extrapolation [[paper](https://arxiv.org/pdf/2404.12355)]
+- (*NeurIPS 2024*) DiffusionPDE: Generative PDE-Solving under Partial Observation [[paper](https://arxiv.org/abs/2406.17763)]
+
 
 #### Solving and Inverting Scientific Equations
+- (*JMLR'23*) Neural operator: learning maps between function spaces with applications to PDEs [[paper](https://www.jmlr.org/papers/volume24/21-1524/21-1524.pdf)]
+- (*NeurIPS'24*) Pretraining codomain attention neural operators for solving multiphysics PDE [[paper](https://arxiv.org/pdf/2403.12553)]
+- (*Science'23*) Learning skillful medium-range global weather forecasting [[paper](https://www.science.org/doi/10.1126/science.adi2336)]
+- (*NeurIPS'23*) Scalable transformer for pde surrogate modeling [[paper](https://www.science.org/doi/10.1126/science.adi2336)]
+- (*NeurIPS'23*) Pde-refiner: Achieving accurate long rollouts with neural pde solvers [[paper](https://arxiv.org/pdf/2308.05732)]
 
 ### 5.4 Data-Driven Scientific Paradigm
 
