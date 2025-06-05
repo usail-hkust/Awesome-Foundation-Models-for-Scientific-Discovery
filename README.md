@@ -275,27 +275,82 @@ FMs assist with outlining, drafting, rewriting, and proofreading scientific pape
 ### 5.3 Computation-Driven Scientific Paradigm
 
 #### Problem Modeling and Formulation
+
 - (*ICLR'25*) LLM-SR: Scientific equation discovery via programming with large language models [[paper](https://arxiv.org/pdf/2404.18400)]
+  
 - (*Nature'24*) Mathematical discoveries from program search with large language models [[paper](https://www.nature.com/articles/s41586-023-06924-6)]
+  
 - (*NeurIPS 2024*) Symbolic Regression with a Learned Concept Library [[paper](https://arxiv.org/abs/2409.09359)]
+  
 - (*arXiv 2024.04*) Towards a Foundation Model for Partial Differential Equations: Multi-Operator Learning and Extrapolation [[paper](https://arxiv.org/pdf/2404.12355)]
+  
 - (*NeurIPS 2024*) DiffusionPDE: Generative PDE-Solving under Partial Observation [[paper](https://arxiv.org/abs/2406.17763)]
 
 
 #### Solving and Inverting Scientific Equations
+
 - (*JMLR'23*) Neural operator: learning maps between function spaces with applications to PDEs [[paper](https://www.jmlr.org/papers/volume24/21-1524/21-1524.pdf)]
+  
 - (*NeurIPS'24*) Pretraining codomain attention neural operators for solving multiphysics PDE [[paper](https://arxiv.org/pdf/2403.12553)]
+  
 - (*Science'23*) Learning skillful medium-range global weather forecasting [[paper](https://www.science.org/doi/10.1126/science.adi2336)]
+  
 - (*NeurIPS'23*) Scalable transformer for pde surrogate modeling [[paper](https://www.science.org/doi/10.1126/science.adi2336)]
+  
 - (*NeurIPS'23*) Pde-refiner: Achieving accurate long rollouts with neural pde solvers [[paper](https://arxiv.org/pdf/2308.05732)]
 
 ### 5.4 Data-Driven Scientific Paradigm
 
-#### Scientific Knowledge Discovery
+#### Scientific Knowledge Discovery 
+
+- (*Bioinformatics'21*) DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome [[paper](https://pubmed.ncbi.nlm.nih.gov/33538820/)]
+
+- (*Nature Machine Intelligence'22*) Large-scale chemical language representations capture molecular structure and properties [[paper](https://www.nature.com/articles/s42256-022-00580-7)]
+
+- (*AAAI'25*) Chemvlm: Exploring the power of multimodal large language models in chemistry area [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32020)]
+
+- (*Nature Machine Intelligence'24*) Augmenting large language models with chemistry tools [[paper](https://www.nature.com/articles/s42256-024-00832-8.pdf)]
+
+- (*arXiv 2024.11*) Galactica: A large language model for science [[paper](https://arxiv.org/abs/2211.09085)]
+
+- (*Nature Medicine'25*) Toward expert-level medical question answering with large language models [[paper](https://www.nature.com/articles/s41591-024-03423-7.pdf)]
+
+- (*ICML'23*) ClimaX: A foundation model for weather and climate [[paper](https://proceedings.mlr.press/v202/nguyen23a.html)]
+
+
 
 #### Predictive Scientific Inference
 
+- (*Nature'23*)  Accurate medium-range global weather forecasting with 3D neural networks  [[paper](https://www.nature.com/articles/s41586-023-06185-3)]
+
+- (*ICLR'24*) DiffusionSat: A Generative Foundation Model for Satellite Imagery [[paper](https://arxiv.org/abs/2312.03606)]
+
+- (*Nature'21*) Highly accurate protein structure prediction with AlphaFold  [[paper](https://www.nature.com/articles/s41586-021-03819-2)]
+
+- (*Science'23*) Evolutionary-scale prediction of atomic-level protein structure with a language model [[paper](https://www.science.org/doi/10.1126/science.ade2574)]
+
+- (*Nature'23*) De novo design of protein structure and function with RFdiffusion [[paper](https://www.nature.com/articles/s41586-023-06415-8_reference.pdf)]
+
+- (*Nature'25*) A generative model for inorganic materials design [[paper](https://www.nature.com/articles/s41586-025-08628-5_reference.pdf)]
+
+
+
 ### 5.5 Cross-Paradigm Foundation Model Integration
+
+- (*arXiv 2025.04*) The ai scientist-v2: Workshop-level automated scientific discovery via agentic tree search [[paper](https://arxiv.org/pdf/2504.08066)]
+
+- (*arXiv 2025.01*) Agent laboratory: Using LLM agents as research assistants [[paper](https://arxiv.org/abs/2501.04227)]
+
+- (*NeurIPS Workshop'23*) Benchmarking large language models as ai research agents [[paper](https://openreview.net/pdf?id=kXlTY0BmK3)]
+
+- (*arXiv 2024.08*) The ai scientist: Towards fully automated open-ended scientific discovery  [[paper](https://arxiv.org/pdf/2408.06292)]
+
+- (*NeurIPS Workshop'24*) PROSE-FD: A Multimodal PDE Foundation Model for Learning Multiple Operators for Forecasting Fluid Dynamics [[paper](https://openreview.net/forum?id=7tEA7ENjLd)]
+
+- (*NeurIPS'24*) Latent neural operator for solving forward and inverse PDE problems [[paper](https://openreview.net/forum?id=VLw8ZyKfcm)]
+
+- (*Nature'23*) Autonomous chemical research with large language models [[paper](https://www.nature.com/articles/s41586-023-06792-0.pdf)]
+
 
 ## 6. Summary
 
