@@ -337,6 +337,8 @@ FMs assist with outlining, drafting, rewriting, and proofreading scientific pape
 
 ### 5.5 Cross-Paradigm Foundation Model Integration
 
+- (*arXiv 2025.05*) ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows [[paper](https://arxiv.org/pdf/2505.19897)]
+
 - (*arXiv 2025.04*) The ai scientist-v2: Workshop-level automated scientific discovery via agentic tree search [[paper](https://arxiv.org/pdf/2504.08066)]
 
 - (*arXiv 2025.01*) Agent laboratory: Using LLM agents as research assistants [[paper](https://arxiv.org/abs/2501.04227)]
