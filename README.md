@@ -367,11 +367,14 @@ This project is licensed under the [MIT License](./LICENSE).
 If you find this work useful, please consider citing:
 
 ```bibtex
-@misc{zhang2024urban,
-  title={Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition},
-  author={},
-  year={2025},
-  eprint={},
-  archivePrefix={arXiv},
-  primaryClass={cs.CY}
+@misc{liu2025foundation,
+  author       = {Fan Liu and Jindong Han and Tengfei Lyu and others},
+  title        = {Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition},
+  howpublished = {TechRxiv},
+  year         = {2025},
+  month        = {June},
+  note         = {Registration in progress},
+  doi          = {10.36227/techrxiv.174953071.19189612/v1},
+  url          = {https://doi.org/10.36227/techrxiv.174953071.19189612/v1}
 }
+
