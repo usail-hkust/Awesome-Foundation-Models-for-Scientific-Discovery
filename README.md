@@ -3,7 +3,7 @@
 
 ## 📰 News
  1. **2025-09**
-🎉 Our paper *"MM-Agent: LLMs as Agents for Real-world Mathematical Modeling Problems"* has been accepted to the **NeurIPS 2025**!
+🎉 Our paper *"Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition"* has been accepted to the **NeurIPS 2025**!
 <p align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
