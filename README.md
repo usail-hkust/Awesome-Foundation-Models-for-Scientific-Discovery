@@ -1,9 +1,7 @@
 # Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition
 
 
-## 📰 News
- 1. **2025-09**
-🎉 Our paper *"Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition"* has been accepted to the **NeurIPS 2025**!
+
 <p align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -13,6 +11,10 @@
 ![Stars](https://img.shields.io/github/stars/usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery)
 
 </p>
+
+## 📰 News
+ 1. **2025-09**
+🎉 Our paper *"Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition"* has been accepted to the **NeurIPS 2025**!
 
 This repository introduces the position paper titled **"Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition"**. The paper investigates how foundation models (FMs) are evolving from enhancing individual research tasks to driving a broader transition in the scientific paradigm itself.
 
@@ -371,14 +373,15 @@ This project is licensed under the [MIT License](./LICENSE).
 If you find this work useful, please consider citing:
 
 ```bibtex
-@misc{liu2025foundation,
-  author       = {Fan Liu and Jindong Han and Tengfei Lyu and others},
+@inproceedings{liu2025foundation,
+  author       = {Fan Liu and Jindong Han and Tengfei Lyu and Weijia Zhang and Zhe-Rui Yang and Lu Dai and Cancheng Liu and Hao Liu},
   title        = {Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition},
-  howpublished = {TechRxiv},
+  booktitle    = {Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)},
   year         = {2025},
-  month        = {June},
-  note         = {Registration in progress},
-  doi          = {10.36227/techrxiv.174953071.19189612/v1},
-  url          = {https://doi.org/10.36227/techrxiv.174953071.19189612/v1}
+  month        = {Dec},
+  address      = {San Diego, CA, USA (also Mexico City, Mexico)},
+  note         = {Mirror site in Mexico City; main venue San Diego Convention Center},
+  url          = {https://doi.org/10.36227/techrxiv.174953071.19189612/v1},  
 }
+
 
