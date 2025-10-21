@@ -383,7 +383,11 @@ If you find this work useful, please consider citing:
   note         = {Mirror site in Mexico City; main venue San Diego Convention Center},
   url          = {https://doi.org/10.36227/techrxiv.174953071.19189612/v1},  
 }
+```
 
+😝 If you like this project, don't forget to give it a ⭐!
+
+[![📈 Star History Chart](https://api.star-history.com/svg?repos=usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery&type=Date)](https://star-history.com/#usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery&Date)
 
 😝 If you like this project, don't forget to give it a ⭐!
 
