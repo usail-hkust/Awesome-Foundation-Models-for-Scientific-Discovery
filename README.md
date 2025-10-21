@@ -389,9 +389,6 @@ If you find this work useful, please consider citing:
 
 [![📈 Star History Chart](https://api.star-history.com/svg?repos=usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery&type=Date)](https://star-history.com/#usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery&Date)
 
-😝 If you like this project, don't forget to give it a ⭐!
-
-[![📈 Star History Chart](https://api.star-history.com/svg?repos=usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery&type=Date)](https://star-history.com/#usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery&Date)
 
 
 
